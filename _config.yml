@@ -1,7 +1,7 @@
 name: Capital Immigration Services
 favicon: null
-layout_spectrum: 0.584614803083241
-typography_spectrum: 0.5473447982221842
+layout_spectrum: 0
+typography_spectrum: 0.74602
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5705641359090805
-  lightness: 0.2868045356590301
-  saturation: 0.23668525298126042
-  rhythmicContrast: 0.4026767360046506
+  brandStrength: 0.9375
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
