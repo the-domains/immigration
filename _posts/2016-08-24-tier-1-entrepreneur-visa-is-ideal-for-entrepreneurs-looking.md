@@ -10,16 +10,16 @@ description: >-
   company and being actively involved in the running of it. One of the major
   requirements for this visa is the access to at least £200,000 or £50,000 (for
   certain applicants) held in a regulated financial institution.
-datePublished: '2016-08-24T11:04:56.413Z'
-dateModified: '2016-08-24T11:04:08.724Z'
+datePublished: '2016-08-24T11:04:01.030Z'
+dateModified: '2016-08-24T11:03:41.799Z'
 title: ''
 author: []
 via: {}
-sourcePath: >-
-  _posts/2016-08-24-tier-1-entrepreneur-visa-is-ideal-for-entrepreneurs-looking.md
 authors: []
 publisher: {}
 starred: false
+sourcePath: >-
+  _posts/2016-08-24-tier-1-entrepreneur-visa-is-ideal-for-entrepreneurs-looking.md
 url: tier-1-entrepreneur-visa-is-ideal-for-entrepreneurs-looking/index.html
 _type: Article
 
