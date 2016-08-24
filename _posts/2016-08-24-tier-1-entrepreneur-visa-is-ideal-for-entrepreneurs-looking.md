@@ -10,16 +10,16 @@ description: >-
   company and being actively involved in the running of it. One of the major
   requirements for this visa is the access to at least £200,000 or £50,000 (for
   certain applicants) held in a regulated financial institution.
-datePublished: '2016-08-24T11:04:01.030Z'
-dateModified: '2016-08-24T11:03:41.799Z'
+datePublished: '2016-08-24T11:19:52.318Z'
+dateModified: '2016-08-24T11:14:21.799Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-24-tier-1-entrepreneur-visa-is-ideal-for-entrepreneurs-looking.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-24-tier-1-entrepreneur-visa-is-ideal-for-entrepreneurs-looking.md
 url: tier-1-entrepreneur-visa-is-ideal-for-entrepreneurs-looking/index.html
 _type: Article
 
@@ -29,6 +29,7 @@ _type: Article
 Tier 1 Entrepreneur visa is ideal for entrepreneurs looking to start a business in the UK from the scratch, takeover or invest in already existing company and being actively involved in the running of it. One of the major requirements for this visa is the access to at least £200,000 or £50,000 (for certain applicants) held in a regulated financial institution.
 
 **The qualifying period for settlement as a Tier 1 Entrepreneur migrant is 5 years. Please note that you may able to Fast-track your route to settlement if you create 10 full time jobs for at least 10 people for 1 year or generate a turnover of at least £5 million over the last 3 years, this will fast-track your route to settlement / Indefinite Leave to remain within 3 years.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e36b7632-0e3d-41cf-838c-2523af68f985.jpg)
 
 The Tier 1 (Entrepreneur) visa is usually granted for an initial period of 3 years and four months. The entrepreneur may then submit an [**extension application**][0]; which is usually granted for another 2 years. As mentioned earlier, after 5 years under this visa category, the Tier 1 entrepreneur may be eligible for settlement.
 
