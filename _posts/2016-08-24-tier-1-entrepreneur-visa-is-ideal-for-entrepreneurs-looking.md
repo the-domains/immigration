@@ -10,8 +10,8 @@ description: >-
   company and being actively involved in the running of it. One of the major
   requirements for this visa is the access to at least £200,000 or £50,000 (for
   certain applicants) held in a regulated financial institution.
-datePublished: '2016-08-24T11:19:52.411Z'
-dateModified: '2016-08-24T11:14:21.799Z'
+datePublished: '2016-08-24T11:20:27.970Z'
+dateModified: '2016-08-24T11:20:27.861Z'
 title: ''
 author: []
 via: {}
